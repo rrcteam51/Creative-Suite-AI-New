@@ -1,0 +1,5 @@
+{
+  "name": "Creative Suite AI",
+  "description": "An AI-powered creative suite to generate and edit images, and get fast text-based responses. Utilizes Gemini Flash Image for editing, Imagen 4 for generation, and Gemini 2.5 Flash for chat.",
+  "requestFramePermissions": []
+}
